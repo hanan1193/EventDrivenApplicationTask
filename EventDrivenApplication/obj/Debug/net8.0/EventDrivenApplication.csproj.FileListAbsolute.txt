@@ -1,0 +1,14 @@
+D:\EventDrivenApplication\EventDrivenApplication\bin\Debug\net8.0\EventDrivenApplication.exe
+D:\EventDrivenApplication\EventDrivenApplication\bin\Debug\net8.0\EventDrivenApplication.deps.json
+D:\EventDrivenApplication\EventDrivenApplication\bin\Debug\net8.0\EventDrivenApplication.runtimeconfig.json
+D:\EventDrivenApplication\EventDrivenApplication\bin\Debug\net8.0\EventDrivenApplication.dll
+D:\EventDrivenApplication\EventDrivenApplication\bin\Debug\net8.0\EventDrivenApplication.pdb
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.AssemblyInfoInputs.cache
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.AssemblyInfo.cs
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.csproj.CoreCompileInputs.cache
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.dll
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\refint\EventDrivenApplication.dll
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.pdb
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.genruntimeconfig.cache
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\ref\EventDrivenApplication.dll

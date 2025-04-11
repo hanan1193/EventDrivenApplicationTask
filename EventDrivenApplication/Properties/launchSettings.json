@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EventDrivenApplication": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
