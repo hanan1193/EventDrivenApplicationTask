@@ -12,3 +12,4 @@ D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\refint\EventDr
 D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.pdb
 D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.genruntimeconfig.cache
 D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\ref\EventDrivenApplication.dll
+D:\EventDrivenApplication\EventDrivenApplication\obj\Debug\net8.0\EventDrivenApplication.sourcelink.json
